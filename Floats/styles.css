@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .menu {
+    background-color: aquamarine;
+    height: 100px;
+  }
+  .barra-lateral {
+    background-color: beige;
+    height: 300px;
+    width: 200px;
+  }
+  .contenido {
+    background-color: blueviolet;
+    height: 500px;
+  }
+  .pie {
+    background-color: brown;
+    height: 200px;
+  }
